@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/firstapp/static/css/main.bb3379b5.chunk.css",
-    "main.js": "/firstapp/static/js/main.487be726.chunk.js",
-    "main.js.map": "/firstapp/static/js/main.487be726.chunk.js.map",
-    "runtime-main.js": "/firstapp/static/js/runtime-main.59c43915.js",
-    "runtime-main.js.map": "/firstapp/static/js/runtime-main.59c43915.js.map",
-    "static/js/2.e1ab7f23.chunk.js": "/firstapp/static/js/2.e1ab7f23.chunk.js",
-    "static/js/2.e1ab7f23.chunk.js.map": "/firstapp/static/js/2.e1ab7f23.chunk.js.map",
-    "static/js/3.edcef03a.chunk.js": "/firstapp/static/js/3.edcef03a.chunk.js",
-    "static/js/3.edcef03a.chunk.js.map": "/firstapp/static/js/3.edcef03a.chunk.js.map",
-    "index.html": "/firstapp/index.html",
-    "static/css/main.bb3379b5.chunk.css.map": "/firstapp/static/css/main.bb3379b5.chunk.css.map",
-    "static/js/2.e1ab7f23.chunk.js.LICENSE.txt": "/firstapp/static/js/2.e1ab7f23.chunk.js.LICENSE.txt",
-    "static/media/HeroSection.css": "/firstapp/static/media/img-home.c034239e.jpg"
+    "main.css": "/first-app/static/css/main.b4465a40.chunk.css",
+    "main.js": "/first-app/static/js/main.487be726.chunk.js",
+    "main.js.map": "/first-app/static/js/main.487be726.chunk.js.map",
+    "runtime-main.js": "/first-app/static/js/runtime-main.ac8825b3.js",
+    "runtime-main.js.map": "/first-app/static/js/runtime-main.ac8825b3.js.map",
+    "static/js/2.e1ab7f23.chunk.js": "/first-app/static/js/2.e1ab7f23.chunk.js",
+    "static/js/2.e1ab7f23.chunk.js.map": "/first-app/static/js/2.e1ab7f23.chunk.js.map",
+    "static/js/3.edcef03a.chunk.js": "/first-app/static/js/3.edcef03a.chunk.js",
+    "static/js/3.edcef03a.chunk.js.map": "/first-app/static/js/3.edcef03a.chunk.js.map",
+    "index.html": "/first-app/index.html",
+    "static/css/main.b4465a40.chunk.css.map": "/first-app/static/css/main.b4465a40.chunk.css.map",
+    "static/js/2.e1ab7f23.chunk.js.LICENSE.txt": "/first-app/static/js/2.e1ab7f23.chunk.js.LICENSE.txt",
+    "static/media/HeroSection.css": "/first-app/static/media/img-home.c034239e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.59c43915.js",
+    "static/js/runtime-main.ac8825b3.js",
     "static/js/2.e1ab7f23.chunk.js",
-    "static/css/main.bb3379b5.chunk.css",
+    "static/css/main.b4465a40.chunk.css",
     "static/js/main.487be726.chunk.js"
   ]
 }
