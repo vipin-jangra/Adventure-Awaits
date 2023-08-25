@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/first-app/static/css/main.b4465a40.chunk.css",
-    "main.js": "/first-app/static/js/main.487be726.chunk.js",
-    "main.js.map": "/first-app/static/js/main.487be726.chunk.js.map",
-    "runtime-main.js": "/first-app/static/js/runtime-main.ac8825b3.js",
-    "runtime-main.js.map": "/first-app/static/js/runtime-main.ac8825b3.js.map",
-    "static/js/2.e1ab7f23.chunk.js": "/first-app/static/js/2.e1ab7f23.chunk.js",
-    "static/js/2.e1ab7f23.chunk.js.map": "/first-app/static/js/2.e1ab7f23.chunk.js.map",
-    "static/js/3.edcef03a.chunk.js": "/first-app/static/js/3.edcef03a.chunk.js",
-    "static/js/3.edcef03a.chunk.js.map": "/first-app/static/js/3.edcef03a.chunk.js.map",
-    "index.html": "/first-app/index.html",
-    "static/css/main.b4465a40.chunk.css.map": "/first-app/static/css/main.b4465a40.chunk.css.map",
-    "static/js/2.e1ab7f23.chunk.js.LICENSE.txt": "/first-app/static/js/2.e1ab7f23.chunk.js.LICENSE.txt",
-    "static/media/HeroSection.css": "/first-app/static/media/img-home.c034239e.jpg"
+    "main.css": "/Adventure-Awaits/static/css/main.fbf99a23.chunk.css",
+    "main.js": "/Adventure-Awaits/static/js/main.4987e8e4.chunk.js",
+    "main.js.map": "/Adventure-Awaits/static/js/main.4987e8e4.chunk.js.map",
+    "runtime-main.js": "/Adventure-Awaits/static/js/runtime-main.d37cff98.js",
+    "runtime-main.js.map": "/Adventure-Awaits/static/js/runtime-main.d37cff98.js.map",
+    "static/js/2.3b72c3ff.chunk.js": "/Adventure-Awaits/static/js/2.3b72c3ff.chunk.js",
+    "static/js/2.3b72c3ff.chunk.js.map": "/Adventure-Awaits/static/js/2.3b72c3ff.chunk.js.map",
+    "static/js/3.795ef930.chunk.js": "/Adventure-Awaits/static/js/3.795ef930.chunk.js",
+    "static/js/3.795ef930.chunk.js.map": "/Adventure-Awaits/static/js/3.795ef930.chunk.js.map",
+    "index.html": "/Adventure-Awaits/index.html",
+    "static/css/main.fbf99a23.chunk.css.map": "/Adventure-Awaits/static/css/main.fbf99a23.chunk.css.map",
+    "static/js/2.3b72c3ff.chunk.js.LICENSE.txt": "/Adventure-Awaits/static/js/2.3b72c3ff.chunk.js.LICENSE.txt",
+    "static/media/HeroSection.css": "/Adventure-Awaits/static/media/img-home.c034239e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ac8825b3.js",
-    "static/js/2.e1ab7f23.chunk.js",
-    "static/css/main.b4465a40.chunk.css",
-    "static/js/main.487be726.chunk.js"
+    "static/js/runtime-main.d37cff98.js",
+    "static/js/2.3b72c3ff.chunk.js",
+    "static/css/main.fbf99a23.chunk.css",
+    "static/js/main.4987e8e4.chunk.js"
   ]
 }
