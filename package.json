@@ -2,7 +2,7 @@
   "name": "first-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vipin-jangra.github.io/firstapp",
+  "homepage": "https://vipin-jangra.github.io/Adventure-Awaits",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
